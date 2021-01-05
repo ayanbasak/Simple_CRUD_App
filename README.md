@@ -2,19 +2,19 @@
 
 ##### features included
 
-1. user can view all/READ customer details
+1. user can view all/READ customer details<br/>
 `GET` > http://localhost:8080/customer/all
-<br/>
-2. user can CREATE new customer with his/her information
+
+2. user can CREATE new customer with his/her information<br/>
 `POST` > http://localhost:8080/customer/add
-<br/>
-3. user can UPDATE existing customer information
+
+3. user can UPDATE existing customer information<br/>
 `POST` > http://localhost:8080/customer/add
-<br/>
-4. user can delete customer details by his/her id
+
+4. user can delete customer details by his/her id<br/>
 `DELETE` > http://localhost:8080/customer/{id}
-<br/>
-5. user can view each customer details by his/her id
+
+5. user can view each customer details by his/her id<br/>
 `GET` > http://localhost:8080/customer/{id}
 
 
